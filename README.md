@@ -1,4 +1,4 @@
-# 🧠 30-Days Deep Learning Internship
+# 🧠 30-Days Deep Learning
 
 Welcome to the official repository of the **Deep Learning Internship** – a hands-on, 3-month journey through the core concepts, frameworks, and real-time projects of modern Deep Learning (DL). This course is designed to give a practical and intuitive understanding of AI systems using cutting-edge tools like **TensorFlow, Keras, PyTorch**, and **OpenCV**, along with **Intel** and **NVIDIA** platforms.
 
