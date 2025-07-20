@@ -1,16 +1,11 @@
-# 🧠 Deep Learning Internship
+# 🧠 30-Days Deep Learning Internship
 
 Welcome to the official repository of the **Deep Learning Internship** – a hands-on, 3-month journey through the core concepts, frameworks, and real-time projects of modern Deep Learning (DL). This course is designed to give a practical and intuitive understanding of AI systems using cutting-edge tools like **TensorFlow, Keras, PyTorch**, and **OpenCV**, along with **Intel** and **NVIDIA** platforms.
 
 ---
 
-## 📚 Course Overview
 
-This internship is not just about learning DL theory but implementing it through 30+ real-world projects. You'll move from basic neural networks to building object detectors using **YOLO**, **CNNs**, **RNNs**, **LSTMs**, and deploying on edge devices like **Intel Movidius** and **NVIDIA Jetson**.
-
----
-
-## 🛠️ Tools & Libraries Used
+## 🛠️ Tools & Libraries
 
 - **Python**
 - **TensorFlow**
@@ -28,7 +23,7 @@ This internship is not just about learning DL theory but implementing it through
 ---
 
 
-## 📦 Projects (1 to 30)
+## 📦 30-Day Deep Learning Projects
 
 | Sl. No. | Project Name | Description |
 |--------:|--------------|-------------|
@@ -74,4 +69,22 @@ This internship is not just about learning DL theory but implementing it through
 - ✅ Focus on image classification, object detection, and time series
 
 ---
+
+## 🖼️ Demo and Screenshots
+
+Comming Soon...
+
+
+---
+
+## 🤝Lets Connect  
+Let's collaborate on ML projects!  
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail)](mailto:sangameshmkuri94@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangamesh_M_Kuri-blue)](https://www.linkedin.com/in/sangamesh-m-kuri-034682366)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917019880436)
+[![X](https://img.shields.io/badge/X-Follow%20me-000000?style=for-the-badge&logo=twitter)](https://x.com/Sangameshkuri94)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/Sangamesh-star)  
+
+---
+Made with ❤️ by **Sangamesh M Kuri**  
 
